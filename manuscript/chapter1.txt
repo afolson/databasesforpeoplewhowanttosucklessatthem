@@ -1,0 +1,18 @@
+# What's A Database?
+
+Let's pretend we manage a guitar shop called **G Strings and F Holes**, or GSFH for short.
+
+We sell a wide variety of guitars from multiple vendors in multiple colors with multiple materials, and ship to locations all over the world. In addition, we also have employees, sales records, and part lists.
+
+We don't know what databases are, and we're so busy managing all of our paperwork that we don't have time to look into better methods of solving our problems. This means we're storing everything on actual paper. We're also too busy to make copies of papers as a backup in case anything happens to our shop.
+
+When the price of a guitar changes (damn those exchange rates!), we have to dig through our filing cabinet for all guitars that meet our criteria. As you can imagine, this is pretty time consuming. Once we find all of the guitars in our cabinet that meet the criteria we've set, we need to manually write in the new price on each paper.
+
+Oy vey.
+
+We've recently heard about this thing called the Internet, and we have grand plans to launch a website that allows people to purchase guitars and parts from us. We've hired a firm called **Byte Me** to help us do this.
+
+
+
+
+

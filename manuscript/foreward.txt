@@ -1,0 +1,41 @@
+# Foreward (or Forewarning as I like to call it)
+
+Hi, and thank you for purchasing my book. Please email me and I will begin processing your refund.
+
+Just kidding. I've already spent it on Cadbury Eggs.
+
+In all seriousness, much of this book's content is tongue-in-cheek, meaning that you'll learn stuff while maybe having a laugh (even if at my expense). This is a pretty dry subject, and my hope is to keep you entertained during those times when you just want to punch your own face off in boredom. Sit back, learn you some databases, and try not to take my jokes too seriously.
+
+## Who Needs This Book?
+
+This book is for people who don't know about databases, or who use databases in their day to day life and maybe want to suck a little less at it or learn some more database theory.
+
+This book is probably not for people who are experts. For example, if you can hold a conversation about finite model theory, you may not find much value here. (Actually, if holding conversations about finite model theory is your thing, why aren't you writing this instead of me?)
+
+## What This Book Will Teach You
+
+I'm going to go over a few topics, starting with a basic overview sprinkled with some theory. From there, we'll get into more complex topics.
+
+- What a database is and why you should care
+- What a database isn't
+- Common uses for databases
+- Different types and use cases for databases
+- Database theory
+- Whatever else I feel like rambling about
+
+This book doesn't aim to teach you how to install database software. There's plenty of information out there on that and the software maintainers can probably do a better job of explaining this than I can.
+
+However, there are a few code samples and sample databases that you can import. Please play around with these.
+
+## About the Author
+
+Who am I and why am I qualified to tell you any of this?
+
+Well, I'm Amanda, and I've been working with databases since I was about 12. Back in my day we had PHP4 and ASP and we were damn grateful for it. I'm now a mid-twenties nerd that still uses databases *every day*. Am I an expert? No. But if you've picked this book up I probably have something to teach you.
+
+### Contact Me
+
+If you want to say hi, heckle me, show me something cool, or just keep tabs on me from afar, here are the ways to do so.
+
+- [Twitter](https://www.twitter.com/AmbassadorAwsum)
+- [Facebook](https://www.facebook.com/amandakfolson)

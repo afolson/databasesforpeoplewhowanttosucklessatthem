@@ -1,0 +1,45 @@
+# Structuring Data
+
+We as shop owners know what data we store in our paperwork, but **Byte Me** isn't as familiar with our process. Let's lay out what information we collect when we have a guitar in our inventory or make a sale.
+
+- Guitars
+  - Make
+  - Model
+  - Materials
+  - Price
+  - Color
+- Sales Records
+  - Date
+  - Guitar Model
+  - Purchase Price
+
+If we have 200 guitars, you can see that this quickly becomes a pain to organize under our current method. But, simply by listing the **type** of data we collect, we can already see how our information might be logically grouped. This layout of our data is called a `schema`, and it's how databases know what type of information we're going to store.
+
+## Searching for Guitars
+
+**Byte Me** has imported all of our data into the database and we're finally ready to start using it. Hooray data!
+
+But wait. We have no idea what the hell we're doing here. There's no web interface for our application yet, so we're forced to create, read, update, and delete information by interacting with the database directly.
+
+Creating, reading, updating, and deleting things in a database are some of the most common tasks you'll perform as you interact with databases. In fact, it's so common, that **CRUD** is commonly used to describe simple applications that perform these tasks. Some examples of this would be task lists, blogging software, and even APIs.
+
+To add a guitar to our inventory, we `create` a record for it.
+
+To see a list of guitars, we `read` a record or a selection of records.
+
+When we make a change to a guitar's record, we `update` it.
+
+When we no longer have a guitar in our inventory, we `delete` it[^deletions].
+
+
+[^deletions]: In the real world we'd probably mark this as not for sale instead of deleting it. The nice thing about using a database is that we can store everything we've ever had in our inventory. If something was out of stock we could simply mark it as such instead of deleting it from the database and adding that data back in once we had the item again.
+
+
+
+
+
+
+
+
+
+

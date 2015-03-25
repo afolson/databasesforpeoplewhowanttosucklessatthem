@@ -1,4 +1,4 @@
-# What's A Database?
+# Database 101
 
 Let's pretend we manage a guitar shop called **G Strings and F Holes**, or GSFH for short.
 
@@ -12,7 +12,24 @@ Oy vey.
 
 We've recently heard about this thing called the Internet, and we have grand plans to launch a website that allows people to purchase guitars and parts from us. We've hired a firm called **Byte Me** to help us do this.
 
+**Byte Me** is horrified at our process, but they assure us they can help. They've outlined a list of problems and potential solutions with how we're managing our information, and they claim that in addition to helping us with our website, they'll be able to help us streamline our process at our brick and mortar store too. It'll only cost an additional $20,000 -- that's only a few Les Paul sales! We agree to let them do their thing.
 
+## GSFH is Doomed
+
+**Byte Me** has informed us that our current data storage method has several problems.
+
+- Our data is hard to search through. When we want to know information about a particular guitar, we have to look through every single file we have. 
+- Our data is duplicated a lot. There are lots of guitars that are made of the same materials but painted different colors. There's simply no need to put a product description on every single guitar profile when the only difference is the color.
+- We can have conflicting data. We could potentially forget to update a price somewhere.
+- We have no backups. I can't even make a cheeky joke about this. This is the worst part of it all.
+
+## What's A Database?
+
+Put simply, a database is a collection of data. By creating and storing paperwork, GSFH has technically created a database. But there's a better way to handle this.
+
+
+
+There are several different types of databases that go beyond the scope of this book. We're going to start with an RDBMS (don't worry if you don't know what that is yet) and then talk about document stores. 
 
 
 
